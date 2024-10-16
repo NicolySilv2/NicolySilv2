@@ -2,10 +2,10 @@
 
 Meu nome é Nicoly
 
-- Estou estudando no Alura
-- Estou me desenvolvendo na linguagem JavaScript
+- Estou estudando no Alura;
+- Estou me desenvolvendo na linguagem JavaScript;
 - Utilizo
 esse espaço para
 minha organização e
-compartilhamento dos meu projetos desenvolvidos
+compartilhamento dos meu projetos desenvolvidos.
   
