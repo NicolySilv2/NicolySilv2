@@ -2,7 +2,7 @@
 
 Meu nome é Nicoly
 
-- Estou estudando no Alura [Alura] (https://www.alura.com.br)
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript;
 - Utilizo
 esse espaço para
@@ -13,4 +13,5 @@ compartilhamento dos meu projetos desenvolvidos.
 
 nicoly.silveste.silva@escola.pr.gov.br
 
-https://media.tenor.com/ccbaloGWpxgAAAAi/snoopy.gif
+![](https://media.tenor.com/ccbaloGWpxgAAAAi/snoopy.gif)
+
